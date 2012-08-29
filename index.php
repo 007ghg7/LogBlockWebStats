@@ -98,9 +98,9 @@
 	}
 ?>
 		</div>
-		<img style="margin:0 auto; display:block;" src="signpillar.png">
-		<div style="position: fixed; right: 0; bottom: 0; font-size: 0.6em;">
-			HTML/PHP/CSS by <a href="http://diddiz.insane-architects.net">DiddiZ</a><br>
+		<div class="footer">
+                     
+			HTML/PHP/CSS by <a href="http://diddiz.insane-architects.net">DiddiZ</a>, modified by Hunter<br>
 			LB-Banner by BattleViper<br>
 			Block pictures by <a href="http://minecraftwiki.net">minecraftwiki.net</a><br>
 			Player skin script by Cadillaxx
